@@ -1,0 +1,26 @@
+.container {
+    padding: 3%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.checked {
+    margin-left: 6%;
+}
+
+.status {
+    display: flex;
+    flex-direction: row;
+    padding: 3%;
+}
+
+.status Button {
+    margin: 0 1.2% 1.2% 0;
+}
+
+.card {
+    margin-bottom: 2%;
+}
